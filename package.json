@@ -1,0 +1,14 @@
+{
+  "name": "hdr10plus-clip-editor",
+  "productName": "HDR10+ Clip Editor",
+  "version": "1.0.0",
+  "description": "Trim, cut, join and blur licence plates in HDR10+ phone videos while keeping HDR10+ (NVENC GPU encode).",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "44.5.1"
+  }
+}
